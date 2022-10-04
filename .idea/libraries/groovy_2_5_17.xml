@@ -1,0 +1,60 @@
+<component name="libraryTable">
+  <library name="groovy-2.5.17" type="groovy-sdk">
+    <properties version="2.5.17" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/groovy-dateutil-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-bsf-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-datetime-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-cli-picocli-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-cli-commons-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-ant-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-jmx-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-docgenerator-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-groovydoc-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-json-direct-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-jsr223-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-groovysh-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-nio-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-servlet-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-console-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-json-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-sql-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-testng-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-templates-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-test-junit5-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-macro-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-test-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-swing-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-xml-2.5.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-2.5.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/groovy-bsf-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-ant-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-cli-commons-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-datetime-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-cli-picocli-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-dateutil-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-docgenerator-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-console-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-jmx-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-jsr223-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-json-direct-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-nio-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-groovysh-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-json-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-sql-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-servlet-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-test-junit5-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-templates-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-test-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-swing-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-macro-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-testng-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-xml-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-groovydoc-2.5.17-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-2.5.17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
